@@ -1,0 +1,63 @@
+about  2   1  1
+afternoon  1   1
+among  1   1
+an  1   1
+and  4   1  1  1  1
+another  1   1
+area  2   1  1
+at  1   1
+attacked  1   1
+attending  1   1
+bombing  2   1  1
+checkpoint  1   1
+citizens  1   1
+city  1   1
+councils  1   1
+during  1   1
+efforts  1   1
+four  1   1
+from  1   1
+gathering  2   1  1
+gunmen  1   1
+happened  1   1
+has  2   1  1
+home  1   1
+in  4   1  1  1  1
+incident  1   1
+initial  1   1
+it  1   1
+its  1   1
+killed  3   1  1  1
+kilometers  2   1  1
+least  1   1
+luncheon  1   1
+members  2   1  1
+miles  2   1  1
+military  1   1
+ministry  1   1
+morning  1   1
+of  7   1  1  1  1  1  1  1
+official  4   1  1  1  1
+others  1   1
+part  1   1
+partners  1   1
+people  2   1  1
+reconciliation  1   1
+reports  1   1
+said  4   1  1  1  1
+sheikhs  1   1
+south  1   1
+southwest  1   1
+suicide  1   1
+support  1   1
+that  1   1
+the  9   1  1  1  1  1  1  1  1  1
+their  1   1
+tribal  2   1  1
+tribes  1   1
+two  1   1
+was  1   1
+were  6   1  1  1  1  1  1
+when  1   1
+with  1   1
+wounded  3   1  1  1
